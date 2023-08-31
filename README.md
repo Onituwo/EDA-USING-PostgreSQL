@@ -25,4 +25,4 @@ In the notebook, i'm going to analyze the company (dvd rental) transactions, Reg
 6.  What is the name of all the district that the customers come from?
 7.  Then the total numbers of customers that comes from each districts?
 ###
-- Now,grab some popcorn and let's [EXPLORE](documentationpostgres.sql) 😄
+### Now,grab some popcorn and let's [EXPLORE](documentationpostgres.sql) 😄
